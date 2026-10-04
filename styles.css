@@ -1,0 +1,255 @@
+body{
+    background-color: #D8D3C9;
+}
+ 
+ 
+.hlavni{
+    display:flex;
+    gap:14px;
+}
+ 
+.prvnikarta{
+    display:flex;
+    justify-content:start;
+    margin:0 0 0 80px;
+   
+}
+ 
+ 
+ 
+.jedna{
+    background-color: #F5F2EA;
+    height:98vh;
+    width:500px;
+    padding:28px;
+    border-radius:24px;
+    box-sizing:border-box;
+    position:relative;
+    margin-left:200px;
+   
+   
+   
+}
+ 
+.dva{
+    position:absolute;
+    left:28px;
+    right:28px;
+    bottom:28px;
+   
+   
+ 
+}
+ 
+.nejmensi{
+    font-family: "Space Grotesk";
+    font-size:12px;
+    margin:0;
+    position:absolute;
+    top:28px;
+    left:28px;
+    font-weight:bold;
+ 
+   
+}
+ 
+.normalni{
+ font-family: "Space Grotesk";
+ font-size:16px;
+ line-height:1.4;
+ margin-bottom: 20px;
+ 
+}
+ 
+.nejvetsi{
+    font-family:"Space Grotesk";
+    font-size:100px;
+    font-weight:bold;
+    line-height:0.95;
+    margin:0 0 24px 0;
+}
+ 
+.acko{
+    font-family:"Space Grotesk";
+    font-weight:bolder;
+    font-size:22.5px;
+    margin:0;
+    position:absolute;
+    top:28px;
+    right:28px;
+ }  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.mensikarty{
+    display:grid;
+    grid-template-columns:1.5fr 1.25fr;
+    grid-template-rows: 1.25fr 1fr;
+    gap: 14px;
+    width:600px;
+    height:98vh;
+ 
+}
+ 
+.cerna{
+    background-color:#181818;
+    border-radius:24px;
+ 
+}
+ 
+.obal{
+    margin:250px 0 0 20px;
+    line-height:0.75;
+   
+   
+}
+ 
+.nejmensi2{
+    font-family:"Space Grotesk";
+    font-size:12px;
+    margin:30px;
+    color: #fff;
+    top:28px;
+    left:28px;
+    font-weight:bold;
+ 
+ 
+ 
+}
+ 
+.maly{
+    font-family:"Space Grotesk";
+    font-size:50px;
+    font-weight:bold;
+    margin:0;
+    color:#fff;
+   
+}
+ 
+.mini{
+    color:#fff;
+    font-family:"Space Grotesk";
+    font-size:12px;
+    margin: 10px 10px 10px 20px;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.zluta{
+    background-color:#D8FF45;
+    border-radius:24px;
+}
+ 
+.nejmensi3{
+    font-family:"Space Grotesk";
+    font-size:12px;
+    font-weight:bold;
+    margin:30px 0 0 20px;
+}
+ 
+.maly2{
+    font-family:"Space Grotesk";
+    font-size:50px;
+    font-weight:bold;
+    margin:0;
+ 
+}
+ 
+.obal2{
+    margin:290px 0 0 20px;
+    line-height:0.75;
+}
+ 
+.odkaz{
+    font-family:"Space Grotesk";
+    font-size:12px;
+    margin: 10px 10px 20px 20px;
+    font-weight:bold;
+   
+   }
+ 
+a{
+    text-decoration:none;
+    color:#181818;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.bila{
+    background-color:#F5F2EA;
+    border-radius:24px;
+}
+ 
+.maly3{
+    font-family:"Space Grotesk";
+    font-size:35px;
+    font-weight:500;
+    margin:0;
+}
+ 
+.obal3{
+    line-height:0.75;
+    margin:160px 0 0 20px;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.fialova{
+    background-color:#6758F5;
+    border-radius:24px;
+}
+ 
+.maly4{
+    font-family:"Space Grotesk";
+    font-size:50px;
+    color:#fff;
+    font-weight:700;
+    margin:0;
+ 
+}
+ 
+.medium{
+    font-family:"Space Grotesk";
+    font-size:20px;
+    font-weight:700;
+    color:#fff;    
+}
+ 
+.obal4{
+    line-height:0.75;
+    margin:60px 0 0 20px;
+ 
+}
+ 
+.druhej{
+    color:#fff;
+    font-family:"Space Grotesk";
+    font-weight:400;
+    text-decoration:underline;
+    font-size:12px;
+ 
+}
+ 
+.odkaz{
+    display:flex;
+    gap:15px;
+    margin: 0 0 0 20px;
+}
